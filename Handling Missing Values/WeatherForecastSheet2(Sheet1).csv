@@ -1,0 +1,10 @@
+Day,Temperature,Windspeed,Event
+01-Jan,32,6,Rain
+02-Jan,,9,Sunny
+03-Jan,28,,Snow
+04-Jan,,7,
+05-Jan,32,,Rain
+06-Jan,,,Sunny
+07-Jan,,,
+08-Jan,34,8,Cloudy
+09-Jan,40,12,Sunny
